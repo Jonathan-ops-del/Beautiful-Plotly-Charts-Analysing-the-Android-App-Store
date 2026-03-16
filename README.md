@@ -1,4 +1,4 @@
-# Beautiful-Plotly-Charts-Analysing-the-Android-App-Store
+# Beautiful-Plotly-Charts-And-Analysing-the-Android-App-Store
 Wrestle the Android App Store Data into Beautiful Looking Charts with Plotly using Python in Google Colaboratory 
 
 
